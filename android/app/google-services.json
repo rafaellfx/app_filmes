@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "362770762192",
+    "project_id": "dart-week-flutter-rafael",
+    "storage_bucket": "dart-week-flutter-rafael.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362770762192:android:7ea279ebd0a674a0fe91d5",
+        "android_client_info": {
+          "package_name": "br.academiadoflutter.app_filmes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362770762192-238f1qgq4jifdj926jlkl8rp5u000ol8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.academiadoflutter.app_filmes",
+            "certificate_hash": "9fb230fc241f18bc05a7d7f59533fe2fc3673eaa"
+          }
+        },
+        {
+          "client_id": "362770762192-8n6aned15s1vcgbvmpcsltouhuimrl58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH22YUssnzBGaTuDQ8CnhSJbNScko0uBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362770762192-8n6aned15s1vcgbvmpcsltouhuimrl58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
