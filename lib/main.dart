@@ -1,3 +1,4 @@
+import 'package:app_filmes/application/bindings/aplications_bindings.dart';
 import 'package:app_filmes/modules/splash/splash_module.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_remote_config/firebase_remote_config.dart';
@@ -19,6 +20,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return GetMaterialApp(
       title: 'Flutter Demo',
+      initialBinding: AplicationsBindings(),
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
