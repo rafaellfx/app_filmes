@@ -30,8 +30,10 @@ class MoviesHeader extends StatelessWidget {
                 fillColor: Colors.white,
                 filled: true,
                 labelText: "Procurar filmes",
+                labelStyle: TextStyle(fontSize: 15, color: Colors.grey),
                 prefix: Icon(Icons.search),
                 contentPadding: EdgeInsets.zero,
+                floatingLabelBehavior: FloatingLabelBehavior.never,
               ),
             ),
           )
